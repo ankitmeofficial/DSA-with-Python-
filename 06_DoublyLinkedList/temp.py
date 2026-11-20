@@ -7,6 +7,7 @@ class Node :
 
 # insert at begning 
 def insert_at_head(head, idata):
+    # during passing the parameter define which parameter you are passing 
     newdata=Node(data=idata)
     newdata.next=head
     if head:
