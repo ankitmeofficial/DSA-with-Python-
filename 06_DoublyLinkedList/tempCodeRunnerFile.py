@@ -1,0 +1,6 @@
+head=insert_at_head(head, 3)
+# display_all(head)
+# head=insert_at_head(head, 4)
+# display_all(head)
+# head=insert_at_head(head, 5)
+# display_all(head)
